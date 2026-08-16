@@ -1,5 +1,6 @@
 ## Mariah
-![I♡Amy](56113bacd483b84d1bec5a8596fc43ec.jpg)
+![Alt Text](56113bacd483b84d1bec5a8596fc43ec.jpg)
+
 
 <!--
 **Mariahh113/Mariahh113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
