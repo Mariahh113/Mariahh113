@@ -1,6 +1,6 @@
 ## ♡
 ![♡](https://mariahluvscats.neocities.org/56113bacd483b84d1bec5a8596fc43ec.jpg)
-![](https://komarev.com/ghpvc/?username=Mariahh113)
+![](/ghpvc/?username=Mariahh113)
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
 <!--
