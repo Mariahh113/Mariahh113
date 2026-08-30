@@ -1,8 +1,8 @@
 ## ♡
 ![♡](https://mariahluvscats.neocities.org/56113bacd483b84d1bec5a8596fc43ec.jpg)
 ![](/ghpvc/?username=Mariahh113)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
+![](https://komarev.com/ghpvc/?username=Mariahh113&color=ff69b4)
+![](/ghpvc/?username=Mariahh113&style=plastic)
 <!--
 **Mariahh113/Mariahh113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
