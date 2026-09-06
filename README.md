@@ -5,7 +5,16 @@
 </p>
 ♡__________‧₊ᵎᵎ🍒⋅°✮__________♡
 
-![♡](https://mariahluvscats.neocities.org/5194c4d5d978f5b727426365c4205158.jpg)
+![♡]
+<p align="center">
+  <img
+src="https://mariahluvscats.neocities.org/5194c4d5d978f5b727426365c4205158.jpg">
+</p>
+♡__________‧₊ᵎᵎ🍒⋅°✮__________♡
+<p align="center">
+  <img
+src="https://mariahluvscats.neocities.org/strawberry.gif">
+</p>
 yo I need help w making ts look cool bro👩‍🦯
 <!--
 **Mariahh113/Mariahh113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
