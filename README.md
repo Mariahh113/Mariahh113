@@ -1,4 +1,9 @@
 ## ♡
+<p align="center">
+  <img src="https://mariahluvscats.neocities.org/32ab4341bf9d7be4cb5f21b2e594ebdd.jpg">
+</p>
+
+
 ![♡](https://mariahluvscats.neocities.org/56113bacd483b84d1bec5a8596fc43ec.jpg)
 yo I need help w making ts look cool bro👩‍🦯
 <!--
